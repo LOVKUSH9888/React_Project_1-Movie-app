@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/99957868/216916702-a6552ca5-a2cd-4dc6-927f-3f472772242b.gif)
+![2023-02-06_13-17-26_AdobeExpress](https://user-images.githubusercontent.com/99957868/216917162-97b8d1cd-1deb-4fe5-be4a-f47819242b79.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
